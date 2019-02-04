@@ -1,0 +1,4 @@
+﻿cx-Freeze==6.0b1
+pyirsdk==1.2.3
+PyYAML==3.13
+tornado==4.5.3
